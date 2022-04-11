@@ -2,6 +2,9 @@ body
 {
     background-color: rgb(148, 245, 58);
 }
+#ps{
+    background-color: bisque;
+}
 
 h1
 {
@@ -15,7 +18,7 @@ h1
 
 h2
 {
-    background-color: rgb(238, 136, 192);
+    /* background-color: rgb(238, 136, 192); */
     color: rgb(91, 11, 240);
     font-size: x-large;
     font-weight: bold;
