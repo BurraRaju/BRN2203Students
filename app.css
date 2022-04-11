@@ -16,8 +16,26 @@ h1
 h2
 {
     background-color: rgb(238, 136, 192);
-    color: rgb(19, 240, 11);
+    color: rgb(91, 11, 240);
     font-size: x-large;
     font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.space-between
+{
+    display: flex;
+    justify-content: space-around; 
+
+}
+
+.box
+{
+    font-size: xx-large;
+}
+
+li
+{
+    font-size: x-large;
+
 }
